@@ -24,8 +24,8 @@ Microfone (apenas para controle por voz)
 
 ⚙️ Instalação
 1. Clone o repositório
-bashgit clone https://github.com/SEU_USUARIO/robo-humanoide.git
-cd robo-humanoide
+bashgit clone https://github.com/diego-andrade279/projeto-robotica
+cd projeto-robotica
 2. Descubra sua arquitetura
 bashpython -c "import platform; print(platform.machine())"
 ResultadoArquiteturaAMD64 ou x86_64x64 — maioria dos notebooksARM64 ou aarch64ARM64 — Snapdragon / Surface
