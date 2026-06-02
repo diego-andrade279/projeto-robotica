@@ -1,0 +1,33 @@
+# ============================================================
+# Dependências — Robo Humanoide
+# ============================================================
+#
+# Como instalar:
+#
+#   1. Descubra sua arquitetura:
+#      Abra o terminal e rode: python -c "import platform; print(platform.machine())"
+#
+#   2. Escolha o comando certo abaixo:
+#
+# ─────────────────────────────────────────────────────────────
+#   x64 / AMD64 (maioria dos notebooks):
+#      pip install requests pyaudio
+#
+#   ARM64 (Snapdragon / Surface X):
+#      pip install requests pyaudiowpatch
+# ─────────────────────────────────────────────────────────────
+#
+# Bibliotecas já incluídas no Python (não precisam instalar):
+#   tkinter, threading, logging, io, json, base64, wave,
+#   time, platform
+# ============================================================
+
+requests
+
+# ⚠️ Descomente UMA das linhas abaixo conforme sua arquitetura:
+
+# x64 / AMD64:
+# pyaudio
+
+# ARM64 (Snapdragon):
+# pyaudiowpatch
