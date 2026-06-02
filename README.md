@@ -35,8 +35,8 @@ Este projeto foi desenvolvido como parte do **Teste Técnico para a vaga de Oper
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/SEU_USUARIO/robo-humanoide.git
-cd robo-humanoide
+git clone https://github.com/diego-andrade279/projeto-robotica
+cd projeto-robotica
 ```
 
 ### 2. Descubra sua arquitetura
